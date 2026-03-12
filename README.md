@@ -1,2 +1,24 @@
-# Network-Segmentation
-The purpose of this case study is to demonstrate why proper network segmentation and access control are essential components of a secure and efficient enterprise network.  By introducing a router to divide the organization into separate networks and applying Access Control Lists (ACLs).
+# Enterprise Network Segmentation Lab
+
+## Overview
+This project demonstrates how network segmentation improves enterprise security using VLANs, routing, and firewall rules.
+
+## Technologies Used
+- Cisco Packet Tracer
+- ASA Firewall
+- VLAN segmentation
+- Access Control Lists (ACL)
+
+## Network Segments
+- HR Network
+- Finance Network
+- IT Network
+- Guest Network
+
+## Security Controls
+- Firewall filtering
+- Access Control Lists
+- Segmented broadcast domains
+
+## Lab File
+`asa-firewall-network-segmentation-lab.pkt`
