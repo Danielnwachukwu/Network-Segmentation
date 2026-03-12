@@ -2,7 +2,9 @@
 
 ## Overview
 This project demonstrates how network segmentation improves enterprise security using VLANs, routing, and firewall rules.
+## Network Topology
 
+![Enterprise Network Topology](network-topology.png)
 ## Technologies Used
 - Cisco Packet Tracer
 - ASA Firewall
